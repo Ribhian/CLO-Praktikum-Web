@@ -69,7 +69,7 @@
 ![image](https://user-images.githubusercontent.com/101171443/209554929-17626008-9ab4-4448-9d6a-735e1ac66228.png)
 
 # News Site using Wordpress
-![image](https://user-images.githubusercontent.com/101171443/209554960-d14a8aea-bb3e-445f-bd73-3bbf68a9f019.png)
+!
 
 
 

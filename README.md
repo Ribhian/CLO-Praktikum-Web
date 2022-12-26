@@ -69,7 +69,9 @@
 ![image](https://user-images.githubusercontent.com/101171443/209554929-17626008-9ab4-4448-9d6a-735e1ac66228.png)
 
 # News Site using Wordpress
-!
+![WhatsApp Image 2022-12-26 at 22 57 12](https://user-images.githubusercontent.com/101171443/209565757-74405e23-e201-4fb3-bd05-e1fa7b69358c.jpg)
+![WhatsApp Image 2022-12-26 at 22 57 11](https://user-images.githubusercontent.com/101171443/209565766-850d042f-7c00-40e5-b1c5-b418623bc64e.jpg)
+
 
 
 
